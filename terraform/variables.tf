@@ -10,6 +10,4 @@ variable "clusterName" {
   default     = "vprofiles-eks"
 }
 
-
-
-## bsdk phir se karna project
+##
