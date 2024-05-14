@@ -9,3 +9,7 @@ variable "clusterName" {
   type        = string
   default     = "vprofiles-eks"
 }
+
+
+
+## bsdk phir se karna project
