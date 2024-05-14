@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "vprofiles-eks"
 }
 
-##
+## bsdk padayi kar zindagi pe kuch nahii milegi
