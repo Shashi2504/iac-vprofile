@@ -13,4 +13,4 @@ variable "clusterName" {
 ## bsdk padayi kar zindagi pe kuch nahii milegi kaam kar
 ## BC
 ## Yaad rakhnaa bhaiii aaaj papa ney kya bola life koo dhikkath nahi karnaa
-# Koshishhh karnaa bhaaii sab teek hojaaayega
+# Koshishhh karnaa bhaaii sab teek hojaaayega chinthaa math
